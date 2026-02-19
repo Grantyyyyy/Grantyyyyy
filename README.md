@@ -25,10 +25,10 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/Grantyyyyy">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" height="25" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:grantgilvillareal2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" height="25" />
   </a>
 </div>
