@@ -33,22 +33,4 @@
   </a>
 </div>
 
-###
-
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=your-username&theme=dracula&hide_border=false" height="150" />
-  <img src="https://github-profile-trophy.vercel.app?username=your-username&theme=dracula&column=4&margin-w=8&margin-h=8" height="150" />
-</div> -->
-
-###
-
-## 🚀 About Me
-
-- Building **real-world systems** using Laravel + Vue  
-- Focused on **clean architecture, scalability, and maintainability**  
-- Exploring **MongoDB optimization, indexing, and feed performance**  
-- Learning **system design & production deployment**
-
----
-
 
