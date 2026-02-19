@@ -35,10 +35,10 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=your-username&theme=dracula&hide_border=false" height="150" />
   <img src="https://github-profile-trophy.vercel.app?username=your-username&theme=dracula&column=4&margin-w=8&margin-h=8" height="150" />
-</div>
+</div> -->
 
 ###
 
@@ -51,46 +51,4 @@
 
 ---
 
-## 📦 Featured Work
 
-### 🧪 Lab Inventory & Chemical Request System
-- Batch-based chemical tracking  
-- Mixture volume deduction logic  
-- Role-based permissions  
-- Barcode-powered workflows  
-
-**Focus:** data integrity + real operational use
-
----
-
-### 📦 Item Information Management System
-- Item instance tracking  
-- Borrow / return lifecycle  
-- Category & batch organization  
-- Barcode routing to item pages  
-
-**Focus:** structured CRUD + usability
-
----
-
-### 🌐 Laravel + MongoDB Social Feed *(In Progress)*
-- MongoDB schema design for scale  
-- Feed querying strategies  
-- Clean Laravel domain structure  
-
-**Focus:** learning large-scale architecture patterns
-
----
-
-## 📈 Current Direction
-
-- Advanced **Laravel architecture (Form Requests, services, enums)**  
-- **Vue composables** and render optimization  
-- Database **performance tuning & indexing**  
-- Preparing for **junior full-stack / backend roles**
-
----
-
-<p align="center">
-  <i>Focused on becoming a production-ready full-stack engineer.</i>
-</p>
