@@ -1,6 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-
-<h3 align="center">I'm Granty — Junior Full-Stack Developer (Laravel • Vue • JS)</h3>
+<h3 align="center">I'm Grantyyy</h3>
 
 ###
 
