@@ -1,5 +1,9 @@
 <h3 align="center">I'm Grantyyy</h3>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjYzMHRpZmVkMzI5M2lqMGloaGFpMXZicng0a2lmYXVpdGk5cnp4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" width="450" />
+</p>
+
 ###
 
 <div align="center">
