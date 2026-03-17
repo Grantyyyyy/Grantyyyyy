@@ -19,7 +19,7 @@
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=php" height="22" /> Tech Stack
+### Tech Stack
 
 #### Frontend
 <div>
@@ -60,7 +60,7 @@
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=linkedin" height="22" /> Let's Connect
+### Let's Connect
 
 <div>
   <a href="https://github.com/Grantyyyyy">
