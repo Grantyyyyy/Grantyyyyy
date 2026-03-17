@@ -62,29 +62,6 @@
 
 ---
 
-### 📌 Featured Project
-
-**Item Information Management System**
-A full-featured platform built for institutions to handle item borrowing, distribution, inventory tracking, and staff accountability.
-
-Built twice using two different tech stacks:
-
-| Version | Stack |
-|---|---|
-| v1 | Django REST Framework + Vue 3 + PostgreSQL |
-| v2 | Next.js Server Actions + Prisma + Neon DB + Tailwind CSS |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Grantyyyyy&show_icons=true&theme=default&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grantyyyyy&layout=compact&theme=default&hide_border=true" height="160" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div>
