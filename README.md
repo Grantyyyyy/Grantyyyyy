@@ -7,15 +7,15 @@
 
 ---
 
-### <img src="https://skillicons.dev/icons?i=vscode" height="22" /> About Me
+### About Me
 
-- <img src="https://skillicons.dev/icons?i=nextjs" height="16" /> I build full-stack web apps using **Next.js**, **Vue 3**, **Laravel**, and **React**
-- <img src="https://skillicons.dev/icons?i=mongodb" height="16" /> Comfortable on both SQL and NoSQL databases — PostgreSQL, MySQL, MongoDB, Neon DB
-- <img src="https://skillicons.dev/icons?i=github" height="16" /> Shipped a complete **Item Management System** in two different stacks (Django + Vue 3, and Next.js Server Actions + Prisma)
-- <img src="https://skillicons.dev/icons?i=git" height="16" /> I collaborate well, take feedback seriously, and always deliver on time
-- <img src="https://skillicons.dev/icons?i=vue" height="16" /> Currently deepening my skills in backend architecture and API design
-- <img src="https://skillicons.dev/icons?i=js" height="16" /> Ask me about anything web dev — happy to share what I know
-- <img src="https://skillicons.dev/icons?i=laravel" height="16" /> Reach me at **grantgilvillareal2002@gmail.com**
+- I build full-stack web apps using **Next.js**, **Vue 3**, **Laravel**, and **React**
+- Comfortable on both SQL and NoSQL databases — PostgreSQL, MySQL, MongoDB, Neon DB
+- Shipped a complete **Item Management System** in two different stacks (Django + Vue 3, and Next.js Server Actions + Prisma)
+- I collaborate well, take feedback seriously, and always deliver on time
+- Currently deepening my skills in backend architecture and API design
+- Ask me about anything web dev — happy to share what I know
+- Reach me at **grantgilvillareal2002@gmail.com**
 
 ---
 
