@@ -38,8 +38,6 @@
 <div>
   <img src="https://skillicons.dev/icons?i=laravel" height="50" alt="Laravel" title="Laravel" />
   <img width="8" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="PHP" title="PHP" />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=django" height="50" alt="Django" title="Django REST Framework" />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=prisma" height="50" alt="Prisma" title="Prisma ORM" />
