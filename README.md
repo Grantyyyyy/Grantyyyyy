@@ -11,7 +11,7 @@
 
 - I build full-stack web apps using **Next.js**, **Vue 3**, **Laravel**, and **React**
 - Comfortable on both SQL and NoSQL databases — PostgreSQL, MySQL, MongoDB, Neon DB
-- Shipped a complete **Item Management System** in two different stacks (Django + Vue 3, and Next.js Server Actions + Prisma)
+- Shipped a complete **Item Management System** in two different stacks (Django + Vue 3, and Next.js + Prisma)
 - I collaborate well, take feedback seriously, and always deliver on time
 - Currently deepening my skills in backend architecture and API design
 - Ask me about anything web dev — happy to share what I know
