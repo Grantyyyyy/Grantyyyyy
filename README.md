@@ -16,7 +16,7 @@
 - Currently deepening my skills in backend architecture and API design
 - Ask me about anything web dev — happy to share what I know
 - Reach me at **grantgilvillareal2002@gmail.com**
-- My portfolio **https://grantyykunn.vercel.app/**
+- Visit my portfolio at **https://grantyykunn.vercel.app/**
 
 ---
 
