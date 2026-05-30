@@ -16,7 +16,6 @@
 - Currently deepening my skills in backend architecture and API design
 - Ask me about anything web dev — happy to share what I know
 - Reach me at **grantgilvillareal2002@gmail.com**
-- Visit my portfolio at **grantyykunn.vercel.app**
 
 ---
 
@@ -62,9 +61,6 @@
 ### Let's Connect
 
 <div>
-  <a href="https://github.com/Grantyyyyy">
-    <img src="https://img.shields.io/badge/GitHub-Grantyyyyy-181717?style=for-the-badge&logo=github&logoColor=white" height="28" />
-  </a>
   &nbsp;
   <a href="mailto:grantgilvillareal2002@gmail.com">
     <img src="https://img.shields.io/badge/Email-grantgilvillareal2002@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="28" />
